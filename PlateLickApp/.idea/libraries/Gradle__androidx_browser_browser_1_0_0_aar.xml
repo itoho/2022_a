@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.browser:browser:1.0.0@aar" type="AndroidModuleLibraryType">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/eaf45028f4d4edd7807139f4439b7611/transformed/browser-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/eaf45028f4d4edd7807139f4439b7611/transformed/browser-1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

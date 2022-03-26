@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.media:media:1.0.0@aar" type="AndroidModuleLibraryType">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d26153c76a835b6318c64a6de2c9dd21/transformed/media-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/d26153c76a835b6318c64a6de2c9dd21/transformed/media-1.0.0/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

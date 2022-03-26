@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ito\ApkProjects\2022_a\PlateLickApp\build\windows\CMakeFiles\e298a70fb487d3a71ab992b8668d19d0\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8157C6AE-E0B4-352D-AEE4-25088FF6D73D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

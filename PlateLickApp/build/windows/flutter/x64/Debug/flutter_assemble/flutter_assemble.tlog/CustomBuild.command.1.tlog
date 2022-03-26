@@ -1,0 +1,28 @@
+^C:\USERS\ITO\APKPROJECTS\2022_A\PLATELICKAPP\BUILD\WINDOWS\CMAKEFILES\3D8AC0205BD2EF4748BCFEE080D526FF\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\flutter PROJECT_DIR=C:\Users\ito\ApkProjects\2022_a\PlateLickApp FLUTTER_ROOT=C:\flutter FLUTTER_EPHEMERAL_DIR=C:\Users\ito\ApkProjects\2022_a\PlateLickApp\windows\flutter\ephemeral PROJECT_DIR=C:\Users\ito\ApkProjects\2022_a\PlateLickApp FLUTTER_TARGET=C:\Users\ito\ApkProjects\2022_a\PlateLickApp\lib\main.dart DART_DEFINES=Zmx1dHRlci5pbnNwZWN0b3Iuc3RydWN0dXJlZEVycm9ycz10cnVl,RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\Users\ito\ApkProjects\2022_a\PlateLickApp\.dart_tool\package_config.json C:/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\ITO\APKPROJECTS\2022_A\PLATELICKAPP\BUILD\WINDOWS\CMAKEFILES\77DAAE638BA486755F9C68FA963FF771\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\ITO\APKPROJECTS\2022_A\PLATELICKAPP\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/ito/ApkProjects/2022_a/PlateLickApp/windows -BC:/Users/ito/ApkProjects/2022_a/PlateLickApp/build/windows --check-stamp-file C:/Users/ito/ApkProjects/2022_a/PlateLickApp/build/windows/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
